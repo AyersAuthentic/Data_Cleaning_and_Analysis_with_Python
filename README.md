@@ -13,3 +13,6 @@ This project use python analysis skills to analyze recent movie ratings data to 
 Link: [Analyzing_Fandango_Movie](https://github.com/AyersAuthentic/Data_Cleaning_and_Analysis_with_Python/blob/main/Investigating_Fandango_Movie_Ratings/FandangoMovieRatings.ipynb)
 
 ## Poject 3: Cleaning and Analysis of Employee Exit Survey Data
+This project will be demonstrating data cleaning an analysis techniques through the analysis of employee exit surveys. 
+
+Link: [Cleaning_Employee_Exit_Data](https://github.com/AyersAuthentic/Data_Cleaning_and_Analysis_with_Python/blob/main/Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb)
